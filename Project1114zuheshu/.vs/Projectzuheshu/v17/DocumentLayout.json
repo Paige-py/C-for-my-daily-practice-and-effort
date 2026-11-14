@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C\\Projectzuheshu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84BB9FC-4931-4F4E-8569-A6ED6A9B8068}|Projectzuheshu\\Projectzuheshu.vcxproj|D:\\code\\C\\Projectzuheshu\\Projectzuheshu\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A84BB9FC-4931-4F4E-8569-A6ED6A9B8068}|Projectzuheshu\\Projectzuheshu.vcxproj|solutionrelative:Projectzuheshu\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\C\\Projectzuheshu\\Projectzuheshu\\test.c",
+              "RelativeDocumentMoniker": "Projectzuheshu\\test.c",
+              "ToolTip": "D:\\code\\C\\Projectzuheshu\\Projectzuheshu\\test.c",
+              "RelativeToolTip": "Projectzuheshu\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-14T15:20:45.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

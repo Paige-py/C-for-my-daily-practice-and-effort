@@ -4,10 +4,10 @@ int main() {
 	int i;
 	int j;
 	for (i = 1; i <= 9; i++) {
-		j = 9;
-		while (j >= 1 && j >= i) {
+		j = i;
+		while (j <= 9) {
 			printf("%2d*%2d=%2d",i,j,i*j);
-			j--;
+			j++;
 		}
 		printf("\n");
 	}
